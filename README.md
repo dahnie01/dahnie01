@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @dahnie01
+- 👀 I’m interested in drawing,ux design and photography...
+- 🌱 I’m currently learning ux/ui design...
+- 💞️ I’m looking to collaborate on .designing a platform that sells sunglasses for summer..
+- 📫 How to reach me telegram @damiolowoo...
+- 😄 Pronouns: .him/he..
+- ⚡ Fun fact:im anti social
+-  ...
+
+<!---
+dahnie01/dahnie01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
